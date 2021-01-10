@@ -1,2 +1,2 @@
-# kotlin
+# Kotlin
 Kotlin App
